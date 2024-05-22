@@ -1,0 +1,5 @@
+wandb:
+    project: 
+    entity: 
+    notes:
+    log_every_steps: 100

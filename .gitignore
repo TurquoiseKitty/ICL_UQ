@@ -1,0 +1,17 @@
+__pycache__
+
+.vscode
+
+DRAFT*
+
+*.out
+
+exp
+
+exp_dir_*
+
+*.tar.gz
+
+*.npy
+
+*.pt
